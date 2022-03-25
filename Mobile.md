@@ -9,3 +9,5 @@ http://www.360doc.com/content/15/0624/21/20918780_480442192.shtml
 
 iOS App之间常用的几种通信方式及适用场景总结
 https://zhuanlan.zhihu.com/p/46249878
+
+AP5UnuaDLFP7Nb8sJQBMmi6fkrzvpngA3e9yX8
